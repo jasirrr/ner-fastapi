@@ -2,6 +2,8 @@
 
 This project implements a **Named Entity Recognition (NER)** model using **FastAPI**. It includes data preprocessing, model training, and deployment as a REST API using Docker.
 
+Here is the deployed API -- https://ner-fastapi.onrender.com
+
 ---
 
 ## 📁 **Project Structure**
